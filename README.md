@@ -60,3 +60,10 @@ If updating the repository template:
 
 - [ ] Update the `README.md` file to reflect any new features or changes to the template.
 - [ ] Make use of `repo-template` as the repository name for the template.
+
+## Credits
+
+This repository is based on the great work done by:
+
+- [Waku](https://github.com/waku-org)
+- [OpenZeppelin](https://github.com/OpenZeppelin)
