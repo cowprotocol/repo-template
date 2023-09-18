@@ -10,9 +10,6 @@ assignees: ''
 ### Problem
 A clear and concise description of what the bug is.
 
-### Impact
-Indicate how significant you believe the impact of the bug is. Bugs that lead to data loss or corruption would be considered `critical`. In such cases, please also add the `critical` label.
-
 ### To reproduce
 If you can reproduce the behaviour, steps to reproduce:
 1. Go to '...'
